@@ -16,11 +16,6 @@ import i18next from "i18next";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Denis | Portfolio",
-  description: "Denis is a full-stack developer.",
-};
-
 export default function RootLayout({
   children,
 }: {
