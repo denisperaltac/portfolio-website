@@ -1,0 +1,15 @@
+{
+  "common-words": {
+    "es": "Español",
+    "en": "Ingles",
+    "Language": "Lenguaje",
+    "Languages": "Lenguajes",
+    "Home": "Inicio"
+  }, "experience-data": {
+    "UTN-Experience": "Dediqué 6 años a mis estudios. Luego tome la decisión de cambiarme al campo de la programación.",
+    "UTN-E-learning": "Me gradué luego de 6 meses de estudio. Inmediatamente conseguí trabajo como programador Full-Stack.",
+    "SH": "Trabajé como desarrollador Full-Stack por 4 meses desarrollando un sitio web para la administración de pacientes de un consultorio médico.",
+    "Caffalac": "Desarrollé una App para el mantenimiento de un supermercado utilizando React Native y Typescript.",
+    "Trueway": "He desarrollado una aplicación web para ventas, compras y alquileres de bienes raíces en Miami, Florida, EE. UU., que incluye servicios de mensajería (Twilio), integración de correo electrónico (Gmail y Hotmail) y gestión de propiedades (Trestle)."
+   }
+}
