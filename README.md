@@ -1,30 +1,7 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+## About Me
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Hello! I am an FULL STACK DEVELOPER with nearly 2 years of hands-on experience in the software development field. My skill set encompasses a wide array of technologies, including JavaScript, Next.js, React, React Native, TypeScript, Node.js, Express, PostgreSQL, Sequelize, AWS, Bootstrap, HTML, CSS, and Git.
 
-## What you will learn
+In addition to my proficiency in full-stack development, I have pursued studies in ARTIFICIAL INTELLIGENCE, specifically focusing on advanced techniques and implementing custom prompts for AI applications.
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
-
-## Important
-
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
-
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
-
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+My expertise extends to agile methodologies, and I take pride in my ability to swiftly adapt and learn new technologies. I am constantly on the lookout for opportunities to broaden my knowledge and enhance my skill set. Collaboration is at the heart of my approach, and I thrive in team environments, where I can collaborate with others to bring exceptional experiences to life.
