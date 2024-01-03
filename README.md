@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am an FULL STACK DEVELOPER with nearly 2 years of hands-on experience in the software development field. My skill set encompasses a wide array of technologies, including JavaScript, Next.js, React, React Native, TypeScript, Node.js, Express, PostgreSQL, Sequelize, AWS, Bootstrap, HTML, CSS, and Git.
+Hello! My name is Denis and I am an FULL STACK DEVELOPER with nearly 2 years of hands-on experience in the software development field. My skill set encompasses a wide array of technologies, including JavaScript, Next.js, React, React Native, TypeScript, Node.js, Express, PostgreSQL, Sequelize, AWS, Bootstrap, HTML, CSS, and Git.
 
 In addition to my proficiency in full-stack development, I have pursued studies in ARTIFICIAL INTELLIGENCE, specifically focusing on advanced techniques and implementing custom prompts for AI applications.
 
